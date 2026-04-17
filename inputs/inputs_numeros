@@ -1,0 +1,15 @@
+#Pedirle un numero al usuario
+
+numero = input("dame un numero: ")
+
+#multiplicando un numero
+
+resultado = numero*2 #Repite la entrada
+print(resultado)
+
+resultado1= int(numero)*2  #convertir dato a int
+print(resultado1)
+
+resultado2= float(numero)*2
+print(resultado2)
+
